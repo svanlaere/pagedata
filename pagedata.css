@@ -1,0 +1,63 @@
+#header #mainTabs ul li#pagedata-plugin a::before { content: "\f004"; }
+
+#pagedata #col_1 { width: 270px; }
+
+#pagedata table{
+	border-collapse: collapse;
+	border-spacing: 0;
+	text-align: left;
+	vertical-align: top;
+	width: 100%;
+}
+
+#pagedata .remove-row {
+	margin-left: .5em;
+}
+
+#pagedata .add-row {
+	margin-top: 1em;
+}
+
+#pagedata table tr td input[type="text"].keyname_text { width: 200px; }
+
+#pagedata table tr td input[type="text"].keyvalue_text { width: 400px; }
+
+#pagedata table.tablesorter {
+	border-collapse: collapse;
+	border-color: #999;
+	border-width: 1px;
+	color: #333;
+}
+
+#pagedata table.tablesorter tbody tr:nth-child(odd) { background-color: #fff; }
+
+#pagedata table.tablesorter tbody tr:nth-child(odd):hover,#pagedata table.tablesorter tbody tr:hover { background-color: #ff9; }
+
+#pagedata table.tablesorter td {
+	border-color: #a9c6c9;
+	border-style: solid;
+	border-width: 1px;
+	padding: 8px;
+	vertical-align: top;
+}
+
+#pagedata table.tablesorter th {
+	background-color: #c3dde0;
+	border-color: #a9c6c9;
+	border-style: solid;
+	border-width: 1px;
+	cursor: pointer;
+	padding: 8px;
+}
+
+#pagedata table.tablesorter th,#pagedata table.tablesorter td { border: 1px solid #999; padding: 8px; }
+
+#pagedata table.tablesorter tr { background-color: #d4e3e5; }
+
+#pagedata .screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
