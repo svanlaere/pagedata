@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Wolf CMS sitedata plugin language file
+ * Wolf CMS pagedata plugin language file
  *
  * @package Translations
  */
