@@ -9,6 +9,5 @@ the name field is your keyname and the value field is where you add your data.
 
 Once you have (re)saved the page it will save the pagedata.
 
-You can retrieve saved data like this:
-
-$this->pagedata->keyname;
+You can retrieve a single value by its given keyname:
+<?php echo $this->pagedata->firstname; ?>
