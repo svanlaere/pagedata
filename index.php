@@ -9,7 +9,7 @@ Plugin::setInfos(array(
     'title' => __('Pagedata'),
     'description' => __('Store additional page data'),
     'version' => '0.1.0',
-    'license' => 'GPL',
+    'license' => 'MIT',
     'website' => 'http://svanlaere.nl/',
     'update_url' => 'http://svanlaere.nl/plugin-versions.xml',
     'require_wolf_version' => '0.8.3'
