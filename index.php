@@ -10,8 +10,8 @@ Plugin::setInfos(array(
     'description' => __('Store additional page data'),
     'version' => '0.1.0',
     'license' => 'GPL',
-    'website' => 'http://www.wolfcms.org/',
-    'update_url' => 'http://www.wolfcms.org/plugin-versions.xml',
+    'website' => 'http://svanlaere.nl/',
+    'update_url' => 'http://svanlaere.nl/plugin-versions.xml',
     'require_wolf_version' => '0.8.3'
 ));
 
