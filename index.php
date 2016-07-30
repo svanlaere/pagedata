@@ -8,7 +8,7 @@ Plugin::setInfos(array(
     'id' => 'pagedata',
     'title' => __('Pagedata'),
     'description' => __('Store additional page data'),
-    'version' => '1.1.0',
+    'version' => '0.1.0',
     'license' => 'GPL',
     'website' => 'http://www.wolfcms.org/',
     'update_url' => 'http://www.wolfcms.org/plugin-versions.xml',
